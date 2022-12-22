@@ -15,10 +15,17 @@ img {
 
 header {
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header .logo {
     width: 25px;
+}
+
+header p {
+    color: #5b6e93;
 }
 
 /* CONTAINER - PRINCIPAL */
