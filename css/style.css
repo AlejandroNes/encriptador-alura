@@ -28,6 +28,17 @@ header p {
     color: #5b6e93;
 }
 
+.canal {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.canal i {
+    color: red;
+}
+
 /* CONTAINER - PRINCIPAL */
 .container {
     width: 90%;
