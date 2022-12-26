@@ -107,6 +107,14 @@ textarea:focus {
     flex: 1;
 }
 
+.error {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid rgb(188, 1, 66);
+    color: rgb(188, 1, 66);
+    margin: 7px;
+    border-radius: 5px;
+}
 
 /* SECCION 2 */
 .seccion2 {
